@@ -16,4 +16,5 @@ int main(){
         printf("The character is a consonant");
     }
     return 0;
+
 }
